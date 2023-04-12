@@ -1,0 +1,16 @@
+ - 8 threads - 
+Collapse time: 0.695884
+Anchor time: 0.64501
+
+ - 4 threads - 
+Collapse time: 0.824075
+Anchor time: 0.949247
+
+ - 2 threads - 
+Collapse time: 1.06867
+Anchor time: 1.50865
+
+ - 1 thread - 
+Collapse time: 1.44027
+Anchor time: 2.21961
+
